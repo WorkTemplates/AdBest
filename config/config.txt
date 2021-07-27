@@ -1,17 +1,20 @@
 [PROJECT]
 # com.это_значение.app
-package = template
-data_url = https://ostats-23c52-default-rtdb.europe-west1.firebasedatabase.app/GoldPlayers.json
+package = adbest
+data_url = https://ostats-23c52-default-rtdb.europe-west1.firebasedatabase.app/Adbest.json
 
 [KEYSTORE]
-name = ANDREI IVANOV
+name = ANDREI IVANOVich
 
 [TEXT]
-app_name = Приложуха
-tab_title = ВАУ
+app_name = AdBest
+tab_title = Страны
 about_text :
-    Тут какой то текст
-    Можно в несколько строк
+	В приложении представлены промежуточные результата
+	медального зачета проходящей в наши дни Олимпиады в
+	Токио. Первые 3 сборные команды занимающие лидирующее
+	положение на 27.07.2021 г.
+	Верим в наших.
 
 [COLORS_DAY]
 colorPrimary = #FF6200EE
