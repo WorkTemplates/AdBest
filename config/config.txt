@@ -1,7 +1,7 @@
 [PROJECT]
 # com.это_значение.app
 package = adbest
-data_url = https://ostats-23c52-default-rtdb.europe-west1.firebasedatabase.app/Adbest.json
+data_url = https://ostats-23c52-default-rtdb.europe-west1.firebasedatabase.app/AdBest.json
 
 [KEYSTORE]
 name = ANDREI IVANOVich
